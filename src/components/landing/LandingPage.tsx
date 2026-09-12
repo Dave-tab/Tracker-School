@@ -122,8 +122,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-slate-900 font-serif leading-[1.12]"
             >
-              <span className="text-emerald-700">Smart Attendance</span> for <br />
-              The Polytechnic, Ibadan.
+              <span className="text-emerald-700">Smart Attendance</span><br />
             </motion.h1>
 
             <motion.p 
